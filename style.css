@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    margin:100px;
+}
+#Apps{
+    background-image: linear-gradient(pink,rgb(0, 200, 255));
+    padding:25px
+}
+.heading{
+font-size: xx-large;
+}
+
+
